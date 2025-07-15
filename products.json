@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "A-Navy Varsity Jacket",
+    "description": "Premium quality varsity jacket with embroidered details and genuine leather sleeves.",
+    "price": "₹4,999",
+    "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/im2.webp",
+    "sizes": ["S", "M", "L", "XL"],
+    "badge": "New"
+  },
+  {
+    "id": 1,
+    "name": "A-Navy Varsity Jacket",
+    "description": "Premium quality varsity jacket with embroidered details and genuine leather sleeves.",
+    "price": "₹4,999",
+    "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/im2.webp",
+    "sizes": ["S", "M", "L", "XL"],
+    "badge": "New"
+  },
+  {
+    "id": 1,
+    "name": "A-Navy Varsity Jacket",
+    "description": "Premium quality varsity jacket with embroidered details and genuine leather sleeves.",
+    "price": "₹4,999",
+    "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/im2.webp",
+    "sizes": ["S", "M", "L", "XL"],
+    "badge": "New"
+  },
+  {
+    "id": 1,
+    "name": "A-Navy Varsity Jacket",
+    "description": "Premium quality varsity jacket with embroidered details and genuine leather sleeves.",
+    "price": "₹4,999",
+    "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/im2.webp",
+    "sizes": ["S", "M", "L", "XL"],
+    "badge": "New"
+  },
+  {
+    "id": 2,
+    "name": "Techwear+ Backpack",
+    "description": "Waterproof tactical backpack with multiple compartments and USB charging port.",
+    "price": "₹3,499",
+    "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/im3.webp",
+    "sizes": ["25L", "35L"],
+    "badge": "Popular"
+  }
+]
