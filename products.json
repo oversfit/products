@@ -1,47 +1,48 @@
 [
   {
     "id": 1,
-    "name": "Surya ",
+    "name": "A-Navy Varsity Jacket",
     "description": "Premium quality varsity jacket with embroidered details and genuine leather sleeves.",
     "price": "₹4,999",
-    "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/2.webp",
-    "sizes": "S,M,L,XL",
+    "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/50.png",
+    "sizes": ["S", "M", "L", "XL"],
     "badge": "New"
+    
   },
   {
     "id": 2,
-    "name": "shreyas iyer ",
+    "name": "A-Navy Varsity Jacket",
     "description": "Premium quality varsity jacket with embroidered details and genuine leather sleeves.",
     "price": "₹4,999",
-    "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/8.webp",
-    "sizes": "S,M,L,XL",
+    "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/im2.webp",
+    "sizes": ["S", "M", "L", "XL"],
     "badge": "New"
   },
   {
     "id": 3,
-    "name": "Sanju",
+    "name": "A-Navy Varsity Jacket",
     "description": "Premium quality varsity jacket with embroidered details and genuine leather sleeves.",
     "price": "₹4,999",
-    "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/14.webp",
-    "sizes": "S,M,L,XL",
+    "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/im2.webp",
+    "sizes": ["S", "M", "L", "XL"],
     "badge": "New"
   },
   {
     "id": 4,
-    "name": "Ruturaj",
+    "name": "A-Navy Varsity Jacket",
     "description": "Premium quality varsity jacket with embroidered details and genuine leather sleeves.",
     "price": "₹4,999",
-    "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/32.webp",
-    "sizes": "S,M,L,XL",
+    "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/im2.webp",
+    "sizes": ["S", "M", "L", "XL"],
     "badge": "New"
   },
   {
     "id": 5,
-    "name": "Hardik pandya",
+    "name": "Techwear+ Backpack",
     "description": "Waterproof tactical backpack with multiple compartments and USB charging port.",
     "price": "₹3,499",
-    "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/48.webp",
-    "sizes": "S,M,L,XL",
+    "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/im3.webp",
+    "sizes": ["25L", "35L"],
     "badge": "Popular"
   }
 ]
