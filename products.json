@@ -7,6 +7,8 @@
   "image": "https:\/\/raw.githubusercontent.com\/oversfit\/products\/refs\/heads\/main\/2.webp",
   "sizes": "S,M,L,XL",
   "badge": "New"
+  "featured": true
+
  },
  {
   "id": 2,
