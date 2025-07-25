@@ -9,7 +9,7 @@
     "sizes": ["S", "M", "L", "XL"],
     "badge": "New",
     "featured": true,
-    "category": "hoodies"
+    "category": "t-shirts"
   },
   {
     "id": 2,
@@ -20,8 +20,8 @@
     "images": ["https://raw.githubusercontent.com/oversfit/products/refs/heads/main/8.webp"],
     "sizes": ["S", "M", "L", "XL"],
     "badge": "New",
-    "featured": false,
-    "category": "hoodies"
+    "featured": true,
+    "category": "t-shirts"
   },
   {
     "id": 3,
@@ -32,8 +32,8 @@
     "images": ["https://raw.githubusercontent.com/oversfit/products/refs/heads/main/14.webp"],
     "sizes": ["S", "M", "L", "XL"],
     "badge": "New",
-    "featured": false,
-    "category": "hoodies"
+    "featured": true,
+    "category": "t-shirts"
   },
   {
     "id": 4,
@@ -44,8 +44,8 @@
     "images": ["https://raw.githubusercontent.com/oversfit/products/refs/heads/main/32.webp"],
     "sizes": ["S", "M", "L", "XL"],
     "badge": "New",
-    "featured": false,
-    "category": "hoodies"
+    "featured": true,
+    "category": "t-shirts"
   },
   {
     "id": 5,
@@ -57,6 +57,6 @@
     "sizes": ["S", "M", "L", "XL"],
     "badge": "Popular",
     "featured": false,
-    "category": "accessories"
+    "category": "t-shirts"
   }
 ]
