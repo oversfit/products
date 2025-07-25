@@ -2,61 +2,61 @@
   {
     "id": 1,
     "name": "Surya",
-    "description": "Premium quality varsity jacket with embroidered details and genuine leather sleeves.",
+    "description": "Premium cotton streetwear tee with bold graphics and comfortable fit. Perfect for everyday urban style.",
     "price": 4999,
     "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/2.webp",
     "images": ["https://raw.githubusercontent.com/oversfit/products/refs/heads/main/2.webp"],
     "sizes": ["S", "M", "L", "XL"],
     "badge": "New",
     "featured": true,
-    "category": "t-shirts"
+    "category": "tshirts"
   },
   {
     "id": 2,
     "name": "Shreyas Iyer",
-    "description": "Premium quality varsity jacket with embroidered details and genuine leather sleeves.",
+    "description": "High-quality oversized tee with unique design elements. Crafted for the modern streetwear enthusiast.",
     "price": 4999,
     "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/8.webp",
     "images": ["https://raw.githubusercontent.com/oversfit/products/refs/heads/main/8.webp"],
     "sizes": ["S", "M", "L", "XL"],
     "badge": "New",
     "featured": true,
-    "category": "t-shirts"
+    "category": "tshirts"
   },
   {
     "id": 3,
     "name": "Sanju",
-    "description": "Premium quality varsity jacket with embroidered details and genuine leather sleeves.",
+    "description": "Premium quality streetwear tee with distinctive prints and superior fabric blend for ultimate comfort.",
     "price": 4999,
     "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/14.webp",
     "images": ["https://raw.githubusercontent.com/oversfit/products/refs/heads/main/14.webp"],
     "sizes": ["S", "M", "L", "XL"],
     "badge": "New",
     "featured": true,
-    "category": "t-shirts"
+    "category": "tshirts"
   },
   {
     "id": 4,
     "name": "Ruturaj",
-    "description": "Premium quality varsity jacket with embroidered details and genuine leather sleeves.",
+    "description": "Contemporary streetwear tee featuring bold aesthetics and premium cotton construction.",
     "price": 4999,
     "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/32.webp",
     "images": ["https://raw.githubusercontent.com/oversfit/products/refs/heads/main/32.webp"],
     "sizes": ["S", "M", "L", "XL"],
     "badge": "New",
     "featured": true,
-    "category": "t-shirts"
+    "category": "tshirts"
   },
   {
     "id": 5,
     "name": "Hardik Pandya",
-    "description": "Waterproof tactical backpack with multiple compartments and USB charging port.",
+    "description": "Statement streetwear tee with eye-catching design elements. Made from premium materials for lasting quality.",
     "price": 3499,
     "image": "https://raw.githubusercontent.com/oversfit/products/refs/heads/main/48.webp",
     "images": ["https://raw.githubusercontent.com/oversfit/products/refs/heads/main/48.webp"],
     "sizes": ["S", "M", "L", "XL"],
     "badge": "Popular",
     "featured": false,
-    "category": "t-shirts"
+    "category": "tshirts"
   }
 ]
