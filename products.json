@@ -69,14 +69,14 @@
   "id": "101",
   "name": "Butterfly Pink T-shirt",
   "description": "Girly summer fit with dreamy butterfly prints on soft pink oversized tee. Perfect for embracing your feminine summer energy.",
-  "price": "649",
+  "price": 649,
   "image": "https:\/\/ik.imagekit.io\/3yppcgrn6\/Butterfly%20Pink%20Oversized%20T-Shirt%20_%20Girly%20Summer%20Fit.webp?updatedAt=1753625431333",
   "badge": "Girly",
-  "featured": "true",
+  "featured": true,
   "category": "tshirts",
   "collection": "summer-collection",
   "emoji": "🦋",
-  "sizes": "S, M, L, XL"
+  "sizes": ["S", "M", "L", "XL"],
  },
  {
   "id": "102",
