@@ -77,7 +77,7 @@
     "badge": "New",
     "featured": true,
     "category": "tshirts",
-    "collection": "summer-collection"
+    "collection": "ipl-collection"
   },
   {
     "id": 5,
@@ -97,7 +97,7 @@
     "badge": "Popular",
     "featured": false,
     "category": "tshirts",
-    "collection": "summer-collection"
+    "collection": "ipl-collection"
   },
   {
     "id": "101",
